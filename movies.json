@@ -83,6 +83,34 @@
             "likes": 955,
             "dislikes": 79,
             "posterindex": 0
+      },
+       {
+            "title": "Legally Blonde",
+            "iscore": 9.3,
+            "rating": "PG-13",
+            "runtime": 111,
+            "released": [2001, 7, 13],
+            "country": "USA",
+            "posters": ["img/27dresses.jpg", "img/27dresses2.jpg", "img/27dresses3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0988595/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_27%2520dresses",
+            "website": "https://www.disneyplus.com/movies/27-dresses/2DEx4fm0Bzhe",
+            "likes": 985,
+            "dislikes": 81,
+            "posterindex": 0
+      },
+       {
+            "title": "Mean Girls",
+            "iscore": 9.5,
+            "rating": "PG-13",
+            "runtime": 97,
+            "released": [2004, 4, 30],
+            "country": "USA",
+            "posters": ["img/27dresses.jpg", "img/27dresses2.jpg", "img/27dresses3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0988595/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_27%2520dresses",
+            "website": "https://www.disneyplus.com/movies/27-dresses/2DEx4fm0Bzhe",
+            "likes": 1075,
+            "dislikes": 113,
+            "posterindex": 0
       }
-
+      
       ]
